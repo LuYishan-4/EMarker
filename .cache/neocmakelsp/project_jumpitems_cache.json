@@ -1,0 +1,1518 @@
+{
+  "date": "2026-08-27T22:06:13.774374456+08:00",
+  "data": {
+    "_KEYWORDS_FOR_EXTENDED_MODE": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 437,
+            "character": 6
+          },
+          "end": {
+            "line": 437,
+            "character": 33
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake\n\nCheck whether we are in 'simple' or 'extended' mode:",
+      "is_function": false
+    },
+    "version_regex": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 392,
+            "character": 14
+          },
+          "end": {
+            "line": 392,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "VERSION_MSG": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 621,
+            "character": 10
+          },
+          "end": {
+            "line": 621,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "VERSION_OK": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 605,
+            "character": 12
+          },
+          "end": {
+            "line": 605,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "OpenCV_INCLUDE_DIRS": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 112,
+            "character": 4
+          },
+          "end": {
+            "line": 112,
+            "character": 23
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "OCV_DEPENDENCIES_FOUND": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 311,
+            "character": 10
+          },
+          "end": {
+            "line": 311,
+            "character": 32
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "ocv_target_link_libraries": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 340,
+            "character": 6
+          },
+          "end": {
+            "line": 340,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": true
+    },
+    "__OpenCV_INCLUDE_DIRS": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 110,
+            "character": 4
+          },
+          "end": {
+            "line": 110,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "FPHSA_REASON_FAILURE_MESSAGE": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 315,
+            "character": 14
+          },
+          "end": {
+            "line": 315,
+            "character": 42
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "OpenCV_USE_MANGLED_PATHS": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 107,
+            "character": 4
+          },
+          "end": {
+            "line": 107,
+            "character": 28
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake\n\nEnables mangled install paths, that help with side by side installs",
+      "is_function": false
+    },
+    "${__cvcomponentUP}_FOUND": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 235,
+            "character": 8
+          },
+          "end": {
+            "line": 235,
+            "character": 32
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "oneValueArgs": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 433,
+            "character": 6
+          },
+          "end": {
+            "line": 433,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "FPHSA_VERSION_VAR": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 477,
+            "character": 10
+          },
+          "end": {
+            "line": 477,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "MISSING_VARS": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 536,
+            "character": 6
+          },
+          "end": {
+            "line": 536,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake\n\nuser knows better what went wrong (#6375)",
+      "is_function": false
+    },
+    "ocv_include_modules": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 332,
+            "character": 6
+          },
+          "end": {
+            "line": 332,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": true
+    },
+    "FPHSA_NAME_MISMATCHED_override": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 454,
+            "character": 8
+          },
+          "end": {
+            "line": 454,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake\n\nCMake version bumps for calling modules.",
+      "is_function": false
+    },
+    "FOUND_COMPONENTS_MSG": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 565,
+            "character": 14
+          },
+          "end": {
+            "line": 565,
+            "character": 34
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "__original_cvcomponent": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 205,
+            "character": 7
+          },
+          "end": {
+            "line": 205,
+            "character": 29
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake\n\nOpenCV_<component>_FOUND variable which can be checked by the user.",
+      "is_function": false
+    },
+    "CMAKE_CXX_STANDARD_REQUIRED": {
+      "location": {
+        "uri": "file:///home/luyishan4/Documents/EMarker-main/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 4
+          },
+          "end": {
+            "line": 6,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/luyishan4/Documents/EMarker-main/CMakeLists.txt",
+      "is_function": false
+    },
+    "OpenCV_WORLD_COMPONENTS": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 199,
+            "character": 4
+          },
+          "end": {
+            "line": 199,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "CMAKE_CXX_EXTENSIONS": {
+      "location": {
+        "uri": "file:///home/luyishan4/Documents/EMarker-main/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 4
+          },
+          "end": {
+            "line": 7,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/luyishan4/Documents/EMarker-main/CMakeLists.txt",
+      "is_function": false
+    },
+    "OpenCV_SHARED": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 104,
+            "character": 4
+          },
+          "end": {
+            "line": 104,
+            "character": 17
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake\n\nSome additional settings are required if OpenCV is built as static libs",
+      "is_function": false
+    },
+    "OpenCV_LIB_COMPONENTS": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 109,
+            "character": 4
+          },
+          "end": {
+            "line": 109,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "OpenCV_LIBS": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 232,
+            "character": 8
+          },
+          "end": {
+            "line": 232,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake\n\nto find_package(OpenCV) with different component lists add up.",
+      "is_function": false
+    },
+    "CMAKE_EXPORT_COMPILE_COMMANDS": {
+      "location": {
+        "uri": "file:///home/luyishan4/Documents/EMarker-main/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 4
+          },
+          "end": {
+            "line": 3,
+            "character": 33
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/luyishan4/Documents/EMarker-main/CMakeLists.txt",
+      "is_function": false
+    },
+    "find_host_package": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 84,
+            "character": 10
+          },
+          "end": {
+            "line": 84,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": true
+    },
+    "_OpenCV_HANDLE_COMPONENTS_MANUALLY": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 66,
+            "character": 6
+          },
+          "end": {
+            "line": 66,
+            "character": 40
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake\n\nThe missing components will be handled by this config.",
+      "is_function": false
+    },
+    "OpenCV_VERSION_MAJOR": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 48,
+            "character": 4
+          },
+          "end": {
+            "line": 48,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "version_ok": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 418,
+            "character": 8
+          },
+          "end": {
+            "line": 418,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "OpenCV_VERSION_TWEAK": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 51,
+            "character": 4
+          },
+          "end": {
+            "line": 51,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "__cvcomponent": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 207,
+            "character": 8
+          },
+          "end": {
+            "line": 207,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "__remap_config": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 161,
+            "character": 12
+          },
+          "end": {
+            "line": 161,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "__msg": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 281,
+            "character": 6
+          },
+          "end": {
+            "line": 281,
+            "character": 11
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "package": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 348,
+            "character": 8
+          },
+          "end": {
+            "line": 348,
+            "character": 15
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "options": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 432,
+            "character": 6
+          },
+          "end": {
+            "line": 432,
+            "character": 13
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake\n\nSet up the arguments for `cmake_parse_arguments`.",
+      "is_function": false
+    },
+    "ocv_include_directories": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 318,
+            "character": 9
+          },
+          "end": {
+            "line": 318,
+            "character": 32
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake\n\nadds include directories in such way that directories from the OpenCV source tree go first",
+      "is_function": true
+    },
+    "OpenCV_VERSION": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig-version.cmake",
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 4
+          },
+          "end": {
+            "line": 0,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig-version.cmake",
+      "is_function": false
+    },
+    "_FOUND_VAR_UPPER": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 524,
+            "character": 8
+          },
+          "end": {
+            "line": 524,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "RESULT_MSG": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 641,
+            "character": 12
+          },
+          "end": {
+            "line": 641,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "OpenCV_FIND_COMPONENTS": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 192,
+            "character": 6
+          },
+          "end": {
+            "line": 192,
+            "character": 28
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "multiValueArgs": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 434,
+            "character": 6
+          },
+          "end": {
+            "line": 434,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "__target": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 285,
+            "character": 8
+          },
+          "end": {
+            "line": 285,
+            "character": 16
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "version_msg": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 419,
+            "character": 8
+          },
+          "end": {
+            "line": 419,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "FPHSA_NAME_MISMATCHED": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 486,
+            "character": 8
+          },
+          "end": {
+            "line": 486,
+            "character": 29
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "__remap_warnings": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 174,
+            "character": 16
+          },
+          "end": {
+            "line": 174,
+            "character": 32
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "ocv_list_filterout": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 345,
+            "character": 6
+          },
+          "end": {
+            "line": 345,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake\n\nremove all matching elements from the list",
+      "is_function": true
+    },
+    "find_host_program": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 89,
+            "character": 10
+          },
+          "end": {
+            "line": 89,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": true
+    },
+    "ocv_check_dependencies": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 306,
+            "character": 6
+          },
+          "end": {
+            "line": 306,
+            "character": 28
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake\n\n",
+      "is_function": true
+    },
+    "${_NAME_UPPER}_FOUND": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 660,
+            "character": 6
+          },
+          "end": {
+            "line": 660,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "CMAKE_CXX_STANDARD": {
+      "location": {
+        "uri": "file:///home/luyishan4/Documents/EMarker-main/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 4
+          },
+          "end": {
+            "line": 5,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/luyishan4/Documents/EMarker-main/CMakeLists.txt",
+      "is_function": false
+    },
+    "FPHSA_REQUIRED_VARS": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 459,
+            "character": 8
+          },
+          "end": {
+            "line": 459,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "FIND_PACKAGE_CHECK_VERSION": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 330,
+            "character": 9
+          },
+          "end": {
+            "line": 330,
+            "character": 35
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": true
+    },
+    "OpenCV_VERSION_STATUS": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 52,
+            "character": 4
+          },
+          "end": {
+            "line": 52,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "OPENCV_MAP_IMPORTED_CONFIG": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 152,
+            "character": 8
+          },
+          "end": {
+            "line": 152,
+            "character": 34
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake\n\nAdd mapping of RelWithDebInfo and MinSizeRel to Release here",
+      "is_function": false
+    },
+    "__final_config": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 162,
+            "character": 12
+          },
+          "end": {
+            "line": 162,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "__add_before": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 319,
+            "character": 6
+          },
+          "end": {
+            "line": 319,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "_IMPORT_PREFIX": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVModules.cmake",
+        "range": {
+          "start": {
+            "line": 477,
+            "character": 4
+          },
+          "end": {
+            "line": 477,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVModules.cmake\n\nCleanup temporary variables.",
+      "is_function": false
+    },
+    "_FPHSA_HANDLE_FAILURE_CONFIG_MODE": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 299,
+            "character": 6
+          },
+          "end": {
+            "line": 299,
+            "character": 39
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake\n\ninternal helper macro to generate the failure message when used in CONFIG_MODE:",
+      "is_function": true
+    },
+    "_FPHSA_FAILURE_MESSAGE": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 280,
+            "character": 6
+          },
+          "end": {
+            "line": 280,
+            "character": 28
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake\n\ninternal helper macro",
+      "is_function": true
+    },
+    "OpenCV_VERSION_MINOR": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 49,
+            "character": 4
+          },
+          "end": {
+            "line": 49,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "_cmake_targets_not_defined": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVModules.cmake",
+        "range": {
+          "start": {
+            "line": 19,
+            "character": 4
+          },
+          "end": {
+            "line": 19,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVModules.cmake",
+      "is_function": false
+    },
+    "FIND_PACKAGE_HANDLE_STANDARD_ARGS": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 429,
+            "character": 9
+          },
+          "end": {
+            "line": 429,
+            "character": 42
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": true
+    },
+    "__force_flag": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 163,
+            "character": 12
+          },
+          "end": {
+            "line": 163,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "PACKAGE_VERSION_COMPATIBLE": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig-version.cmake",
+        "range": {
+          "start": {
+            "line": 13,
+            "character": 6
+          },
+          "end": {
+            "line": 13,
+            "character": 32
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig-version.cmake",
+      "is_function": false
+    },
+    "PACKAGE_VERSION_EXACT": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig-version.cmake",
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 6
+          },
+          "end": {
+            "line": 7,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig-version.cmake",
+      "is_function": false
+    },
+    "OpenCV_LIBRARIES": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 275,
+            "character": 4
+          },
+          "end": {
+            "line": 275,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake\n\n==============================================================",
+      "is_function": false
+    },
+    "${FPCV_RESULT_MESSAGE_VARIABLE}": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 424,
+            "character": 8
+          },
+          "end": {
+            "line": 424,
+            "character": 39
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "_CMAKE_FPHSA_PACKAGE_NAME": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 508,
+            "character": 6
+          },
+          "end": {
+            "line": 508,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake\n\nto propagate package name to FIND_PACKAGE_CHECK_VERSION",
+      "is_function": false
+    },
+    "COMPONENT_MSG": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 583,
+            "character": 8
+          },
+          "end": {
+            "line": 583,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "FPCV_HANDLE_VERSION_RANGE": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 600,
+            "character": 14
+          },
+          "end": {
+            "line": 600,
+            "character": 39
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "ocv_include_modules_recurse": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 336,
+            "character": 6
+          },
+          "end": {
+            "line": 336,
+            "character": 33
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": true
+    },
+    "${result}": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 422,
+            "character": 6
+          },
+          "end": {
+            "line": 422,
+            "character": 15
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "${_NAME}_FOUND": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 659,
+            "character": 6
+          },
+          "end": {
+            "line": 659,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "configsText": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 307,
+            "character": 10
+          },
+          "end": {
+            "line": 307,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "FPHSA_FOUND_${_NAME}": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 542,
+            "character": 10
+          },
+          "end": {
+            "line": 542,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "__compile_features": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 291,
+            "character": 8
+          },
+          "end": {
+            "line": 291,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "ocv_map_imported_config": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 156,
+            "character": 6
+          },
+          "end": {
+            "line": 156,
+            "character": 29
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": true
+    },
+    "PACKAGE_VERSION": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig-version.cmake",
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 4
+          },
+          "end": {
+            "line": 1,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig-version.cmake",
+      "is_function": false
+    },
+    "CMAKE_IMPORT_FILE_VERSION": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVModules.cmake",
+        "range": {
+          "start": {
+            "line": 508,
+            "character": 4
+          },
+          "end": {
+            "line": 508,
+            "character": 29
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVModules.cmake\n\nCommands beyond this point should not need to know the version.",
+      "is_function": false
+    },
+    "EMARKER_OPENCV_CALIB_COMPONENT": {
+      "location": {
+        "uri": "file:///home/luyishan4/Documents/EMarker-main/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 14,
+            "character": 8
+          },
+          "end": {
+            "line": 14,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/luyishan4/Documents/EMarker-main/CMakeLists.txt",
+      "is_function": false
+    },
+    "FPHSA_FAIL_MESSAGE": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 513,
+            "character": 8
+          },
+          "end": {
+            "line": 513,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "OpenCV_VERSION_PATCH": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 50,
+            "character": 4
+          },
+          "end": {
+            "line": 50,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    },
+    "_cmake_expected_targets": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVModules.cmake",
+        "range": {
+          "start": {
+            "line": 20,
+            "character": 4
+          },
+          "end": {
+            "line": 20,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVModules.cmake",
+      "is_function": false
+    },
+    "_FOUND_VAR_MIXED": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 525,
+            "character": 8
+          },
+          "end": {
+            "line": 525,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "_FOUND_VERSION": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 596,
+            "character": 12
+          },
+          "end": {
+            "line": 596,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "_cmake_targets_defined": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVModules.cmake",
+        "range": {
+          "start": {
+            "line": 18,
+            "character": 4
+          },
+          "end": {
+            "line": 18,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVModules.cmake\n\nProtect against multiple inclusion, which would fail when already imported targets are added once more.",
+      "is_function": false
+    },
+    "DETAILS": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 537,
+            "character": 6
+          },
+          "end": {
+            "line": 537,
+            "character": 13
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "MISSING_COMPONENTS_MSG": {
+      "location": {
+        "uri": "file:///usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+        "range": {
+          "start": {
+            "line": 572,
+            "character": 14
+          },
+          "end": {
+            "line": 572,
+            "character": 36
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+      "is_function": false
+    },
+    "OpenCV_${__original_cvcomponent}_FOUND": {
+      "location": {
+        "uri": "file:///usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+        "range": {
+          "start": {
+            "line": 236,
+            "character": 8
+          },
+          "end": {
+            "line": 236,
+            "character": 46
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /usr/lib/cmake/opencv5/OpenCVConfig.cmake",
+      "is_function": false
+    }
+  }
+}
