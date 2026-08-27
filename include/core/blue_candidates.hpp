@@ -13,7 +13,7 @@ namespace tel::core {
 //
 // 每個 BlueCandidate 包含：
 //   - C 的 8 個影像座標
-//   - 原始 our
+//   - 原始 contour
 //   - 面積
 //   - Homography
 //   - SQPnP pose
@@ -26,6 +26,9 @@ namespace tel::core {
 //   不負責和實際 Green contour 做匹配。
 // ============================================================
 
-std::vector<BlueCandidate> find_blue_candidates(const cv::Mat &blue_mask);
+std::vector<BlueCandidate>
+find_blue_candidates(
+    const cv::Mat& blue_mask
+);
 
 } // namespace tel::core

@@ -1,12 +1,16 @@
 cmake_minimum_required(VERSION 3.20)
 
 project(EMarker LANGUAGES CXX)
+<<<<<<< HEAD
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+=======
+>>>>>>> 9b567fc72389b2a3ca82d817775e6088d1eb91f5
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
+<<<<<<< HEAD
 
 find_package(OpenCV REQUIRED)
 if(OpenCV_VERSION VERSION_GREATER_EQUAL "5.0")
@@ -15,6 +19,9 @@ else()
     set(EMARKER_OPENCV_CALIB_COMPONENT calib3d)
 endif()
 find_package(OpenCV REQUIRED COMPONENTS core imgproc ${EMARKER_OPENCV_CALIB_COMPONENT} videoio highgui)
+=======
+find_package(OpenCV REQUIRED COMPONENTS core imgproc calib3d videoio highgui)
+>>>>>>> 9b567fc72389b2a3ca82d817775e6088d1eb91f5
 
 add_library(EMarker
     src/calibration/camera_calibration.cpp
@@ -26,6 +33,7 @@ add_library(EMarker
     src/pipeline/emarker.cpp
 )
 
+<<<<<<< HEAD
 target_include_directories(EMarker PUBLIC
     ${CMAKE_CURRENT_SOURCE_DIR}/include
     ${CMAKE_CURRENT_SOURCE_DIR}/include/calibration
@@ -33,6 +41,9 @@ target_include_directories(EMarker PUBLIC
     ${CMAKE_CURRENT_SOURCE_DIR}/include/pipeline
 )
 
+=======
+target_include_directories(EMarker PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
+>>>>>>> 9b567fc72389b2a3ca82d817775e6088d1eb91f5
 target_link_libraries(EMarker PUBLIC ${OpenCV_LIBS})
 
 add_executable(EMarker_video_test main.cpp)
