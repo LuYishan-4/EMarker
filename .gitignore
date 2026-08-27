@@ -1,0 +1,6 @@
+/.vscode
+/build
+/build.ps1
+/run.ps1
+/videoDemoGPT2.py
+/videoDemoGPT5.py
