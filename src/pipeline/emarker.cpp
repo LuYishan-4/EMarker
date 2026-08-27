@@ -8,6 +8,7 @@
 #include <limits>
 #include <utility>
 #include <vector>
+#include <iostream>
 
 namespace tel::pipeline {
 
@@ -22,7 +23,7 @@ std::vector<CMarker> CMarkerPipeline::process(
     const cv::Mat& green_binary) {
 
     std::vector<CMarker> markers;
-
+    
     if (blue_binary.empty() || green_binary.empty())
         return markers;
 
