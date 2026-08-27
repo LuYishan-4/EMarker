@@ -15,7 +15,7 @@ add_library(EMarker
     src/core/green_anchor.cpp
     src/core/pnp_solver.cpp
     src/core/shape_match.cpp
-    src/pipeline/cmaker.cpp
+    src/pipeline/emarker.cpp
 )
 
 target_include_directories(EMarker PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
